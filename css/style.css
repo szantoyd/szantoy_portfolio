@@ -1,0 +1,99 @@
+body{
+	background-image: url(csempe.jpg);
+}
+.divnagy{
+	color: #54A980 ;
+	background-color: #54A980 ; 
+	width: 90%;  
+	margin-left: 5% ;
+	border: 5px; 
+	border-color:#54A980; 
+	border-style: solid; 
+	border-radius:15px
+	
+
+}
+.bejelolt{
+	color:  #C0C0C0; 
+	background-color: #2E593A ;
+	border:2px;
+	border-color:#2E593A; 
+	border-style: solid; 
+	border-radius: 5px;
+	font-family:"Brush Script MT Lucida Handwriting",cursive;
+}
+.jeloletlen{
+	color: #2E593A; 
+	background-color:#C0C0C0; 
+	border:2px;
+	border-color:#C0C0C0; 
+	border-style: solid; 
+	border-radius: 5px;
+	font-family:"Brush Script MT Lucida Handwriting",cursive;
+
+}
+.h1port{
+	color: #C0C0C0; 
+	margin-left: 10%;
+	font-family:"Brush Script MT Lucida Handwriting",cursive;
+
+	
+}
+.h1nev{
+	color: #C0C0C0; 
+	margin-left: 71%;
+	font-family:"Brush Script MT Lucida Handwriting",cursive;
+
+
+}
+.h1cim{
+	text-align: center;
+	color: #C0C0C0;
+	font-family: "Brush Script MT Lucida Handwriting",cursive;
+
+}
+.h2rolam{
+	color: #2E593A; 
+	background-color: #C0C0C0; 
+	margin-left: 20%; 
+	margin-right: 20%; 
+	border: 2px;
+	border-color:#C0C0C0; 
+	border-style: solid; 
+	border-radius: 5px;
+	font-family:"Brush Script MT Lucida Handwriting",cursive;
+}
+p{
+	color: black; 
+	background-color: #C0C0C0; 
+	text-align: center;
+	border: 2px;
+	border-color:#C0C0C0; 
+	border-style: solid; 
+	border-radius: 5px;
+	font-family: "Brush Script MT Lucida Handwriting",cursive;
+}
+.divkepnagy{
+	color: #2E593A; 
+	background-color: #2E593A; 
+	width: 40%;  
+	margin-left:auto;
+	margin-right:auto;
+	border: 2px;
+	border-color:#2E593A; 
+	border-style: solid; 
+	border-radius: 5px;
+	display: block;
+
+}
+img{
+	margin-left: 33%;
+	
+}
+.kepterv{
+	width: 40%;
+	height:25%;
+	margin-left:auto;
+	margin-right:auto;
+	display: block;
+}
